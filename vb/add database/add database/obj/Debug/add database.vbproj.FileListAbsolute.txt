@@ -1,0 +1,11 @@
+C:\Users\USER\Desktop\vb\add database\add database\bin\Debug\add database.exe.config
+C:\Users\USER\Desktop\vb\add database\add database\bin\Debug\MYDATA1.accdb
+C:\Users\USER\Desktop\vb\add database\add database\bin\Debug\add database.exe
+C:\Users\USER\Desktop\vb\add database\add database\bin\Debug\add database.pdb
+C:\Users\USER\Desktop\vb\add database\add database\bin\Debug\add database.xml
+C:\Users\USER\Desktop\vb\add database\add database\obj\Debug\add_database.Form1.resources
+C:\Users\USER\Desktop\vb\add database\add database\obj\Debug\add_database.Resources.resources
+C:\Users\USER\Desktop\vb\add database\add database\obj\Debug\add database.vbproj.GenerateResource.Cache
+C:\Users\USER\Desktop\vb\add database\add database\obj\Debug\add database.exe
+C:\Users\USER\Desktop\vb\add database\add database\obj\Debug\add database.xml
+C:\Users\USER\Desktop\vb\add database\add database\obj\Debug\add database.pdb

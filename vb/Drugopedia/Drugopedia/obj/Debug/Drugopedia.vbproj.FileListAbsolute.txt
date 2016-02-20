@@ -1,0 +1,21 @@
+C:\Users\USER\Desktop\vb\Drugopedia\Drugopedia\bin\Debug\Drugopedia.exe.config
+C:\Users\USER\Desktop\vb\Drugopedia\Drugopedia\bin\Debug\my_database.accdb
+C:\Users\USER\Desktop\vb\Drugopedia\Drugopedia\bin\Debug\Drugopedia.exe
+C:\Users\USER\Desktop\vb\Drugopedia\Drugopedia\bin\Debug\Drugopedia.pdb
+C:\Users\USER\Desktop\vb\Drugopedia\Drugopedia\bin\Debug\Drugopedia.xml
+C:\Users\USER\Desktop\vb\Drugopedia\Drugopedia\obj\Debug\Drugopedia.Form1.resources
+C:\Users\USER\Desktop\vb\Drugopedia\Drugopedia\obj\Debug\Drugopedia.Form2.resources
+C:\Users\USER\Desktop\vb\Drugopedia\Drugopedia\obj\Debug\Drugopedia.Resources.resources
+C:\Users\USER\Desktop\vb\Drugopedia\Drugopedia\obj\Debug\Drugopedia.vbproj.GenerateResource.Cache
+C:\Users\USER\Desktop\vb\Drugopedia\Drugopedia\obj\Debug\Drugopedia.exe
+C:\Users\USER\Desktop\vb\Drugopedia\Drugopedia\obj\Debug\Drugopedia.xml
+C:\Users\USER\Desktop\vb\Drugopedia\Drugopedia\obj\Debug\Drugopedia.pdb
+C:\Users\USER\Desktop\vb\Drugopedia\Drugopedia\obj\Debug\Drugopedia.Form3.resources
+C:\Users\USER\Desktop\vb\Drugopedia\Drugopedia\obj\Debug\Drugopedia.Form4.resources
+C:\Users\USER\Desktop\vb\Drugopedia\Drugopedia\obj\Debug\Drugopedia.Form5.resources
+C:\Users\USER\Desktop\vb\Drugopedia\Drugopedia\obj\Debug\Drugopedia.Form6.resources
+C:\Users\USER\Desktop\vb\Drugopedia\Drugopedia\obj\Debug\Drugopedia.Form7.resources
+I:\Notes\VB Project\vb\Drugopedia\Drugopedia\bin\Debug\Drugopedia.exe.config
+I:\Notes\VB Project\vb\Drugopedia\Drugopedia\obj\Debug\Drugopedia.exe
+I:\Notes\VB Project\vb\Drugopedia\Drugopedia\obj\Debug\Drugopedia.xml
+I:\Notes\VB Project\vb\Drugopedia\Drugopedia\obj\Debug\Drugopedia.pdb

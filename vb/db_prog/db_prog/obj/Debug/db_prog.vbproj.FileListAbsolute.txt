@@ -1,0 +1,11 @@
+C:\Users\USER\Desktop\vb\db_prog\db_prog\bin\Debug\db_prog.exe.config
+C:\Users\USER\Desktop\vb\db_prog\db_prog\bin\Debug\my_db.accdb
+C:\Users\USER\Desktop\vb\db_prog\db_prog\bin\Debug\db_prog.exe
+C:\Users\USER\Desktop\vb\db_prog\db_prog\bin\Debug\db_prog.pdb
+C:\Users\USER\Desktop\vb\db_prog\db_prog\bin\Debug\db_prog.xml
+C:\Users\USER\Desktop\vb\db_prog\db_prog\obj\Debug\db_prog.Form1.resources
+C:\Users\USER\Desktop\vb\db_prog\db_prog\obj\Debug\db_prog.Resources.resources
+C:\Users\USER\Desktop\vb\db_prog\db_prog\obj\Debug\db_prog.vbproj.GenerateResource.Cache
+C:\Users\USER\Desktop\vb\db_prog\db_prog\obj\Debug\db_prog.exe
+C:\Users\USER\Desktop\vb\db_prog\db_prog\obj\Debug\db_prog.xml
+C:\Users\USER\Desktop\vb\db_prog\db_prog\obj\Debug\db_prog.pdb
